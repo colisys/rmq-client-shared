@@ -6,7 +6,10 @@
     "autoload": {
         "psr-4": {
             "Colisys\\RmqClient\\Shared\\": "src/"
-        }
+        },
+        "files": [
+            "src/Helper/Functions.php"
+        ]
     },
     "authors": [
         {
